@@ -1,0 +1,11 @@
+apiVersion: backstage.io/v1alpha1
+kind: Component
+metadata:
+  name: auth-worker-26684
+  namespace: MendPerformance
+  annotations:
+    github.com/project-slug: MendPerformance/auth-worker-26684
+spec:
+  type: service
+  lifecycle: unknown
+  owner: mend.io
